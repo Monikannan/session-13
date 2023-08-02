@@ -1,5 +1,5 @@
 def add(list):
-    list = ["Villupuram", "Ginux", "Linux","User","Group"]
+    list = ["Villupuram", "Gnu", "Linux","User","Group"]
     return list
 my_list = ["Python"]
  
